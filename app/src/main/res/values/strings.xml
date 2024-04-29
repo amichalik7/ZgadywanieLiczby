@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ZgadywanieLiczby</string>
+    <string name="sprawdz">Sprawdź</string>
+    <string name="nowa_gra">Nowa gra</string>
+    <string name="liczba">Liczba</string>
+    <string name="wprowad_liczb">Wprowadź liczbę:</string>
+    <string name="liczbaProb">Liczba prób:</string>
+    <string name="min">Min</string>
+    <string name="max">Max</string>
+    <string name="input">Wprowadź zakres z jakiego będą się losować liczby:</string>
+</resources>
